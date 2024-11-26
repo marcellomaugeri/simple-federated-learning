@@ -18,5 +18,6 @@ This repository provides a foundational exploration of Federated Learning (FL) c
 **How to Use:**
 
 1. Clone the repository.
-2. Work through the Jupyter notebooks to build your understanding of FL concepts.
-3. Experiment with the provided code examples and modify them to explore different scenarios.
+2. Create a virtual environment and install all the requirements
+3. Work through the Jupyter notebooks to build your understanding of FL concepts.
+4. Experiment with the provided code examples and modify them to explore different scenarios.
